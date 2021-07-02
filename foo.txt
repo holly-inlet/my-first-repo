@@ -3,3 +3,4 @@ cf. https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be#vscode%E3%81%AE%E8%B5%
 
 A (1回目)
 B (2回目，new-branch作成後)
+C (3回目，new-branch内で2回めのcommit)
